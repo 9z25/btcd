@@ -1,4 +1,4 @@
-module github.com/btcsuite/btcd
+module github.com/9z25/btcd
 
 require (
 	github.com/aead/siphash v1.0.1 // indirect
