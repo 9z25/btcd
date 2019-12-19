@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/integration/rpctest"
+	"github.com/9z25/btcd/blockchain"
+	"github.com/9z25/btcd/chaincfg"
+	"github.com/9z25/btcd/chaincfg/chainhash"
+	"github.com/9z25/btcd/integration/rpctest"
 )
 
 const (
