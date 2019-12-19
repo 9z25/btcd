@@ -5,9 +5,9 @@
 package ffldb
 
 import (
-	"github.com/btcsuite/btcd/database/internal/treap"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/9z25/btcd/database/internal/treap"
+	"github.com/9z25/goleveldb/leveldb/iterator"
+	"github.com/9z25/goleveldb/leveldb/util"
 )
 
 // ldbTreapIter wraps a treap iterator to provide the additional functionality
