@@ -10,9 +10,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/9z25/btcd/txscript"
+	"github.com/9z25/btcd/wire"
+	"github.com/9z25/btcutil"
 )
 
 // txValidateItem holds a transaction along with which input to validate.
