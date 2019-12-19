@@ -10,11 +10,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/9z25/btcd/chaincfg"
+	"github.com/9z25/btcd/database"
+	_ "github.com/9z25/btcd/database/ffldb"
+	"github.com/9z25/btcd/wire"
+	"github.com/9z25/btcutil"
 )
 
 // This example demonstrates creating a new database.
