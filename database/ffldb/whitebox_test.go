@@ -17,11 +17,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/goleveldb/leveldb"
+	"github.com/9z25/btcd/chaincfg"
+	"github.com/9z25/btcd/database"
+	"github.com/9z25/btcd/wire"
+	"github.com/9z25/btcutil"
+	"github.com/9z25/goleveldb/leveldb"
 	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"
 )
 
